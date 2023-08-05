@@ -17,7 +17,7 @@ export default class Details extends Component {
         return (
 
 
-            <div className='col-8 offset-2 mt-2 ' style={{ background: "grey", borderRadius: "10px" }}>
+            <div className='col-8 offset-2 mt-4 ' style={{ background: "grey", borderRadius: "10px" }}>
 
                 <form onSubmit={this.props.submit}>
 
